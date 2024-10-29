@@ -20,7 +20,7 @@ border: 20px white solid;
 
 }
 img { height: 200px;
-
-
-
+}
+.categoria_videos {
+    display: flex;
 }
