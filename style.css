@@ -23,4 +23,5 @@ img { height: 200px;
 }
 .categoria_videos {
     display: flex;
+    overflow-x: auto;
 }
