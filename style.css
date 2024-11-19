@@ -3,7 +3,9 @@ body {
 color: white;
 font-family: "Permanent Marker", cursive;
 
-
+p {
+    font-size: 40px;
+}
 }
 .chamada{
 
