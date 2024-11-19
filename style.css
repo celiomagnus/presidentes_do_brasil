@@ -3,7 +3,7 @@ body {
 color: white;
 
 }
-section{
+.chamada{
 
     background-color: rgb(237, 24, 174);
     padding-top: 20px;
@@ -25,4 +25,11 @@ img { height: 200px;
     display: flex;
     overflow-x: auto;
     gap: 10px;
+}
+
+
+.video {
+
+
+
 }
